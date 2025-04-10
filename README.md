@@ -1,82 +1,81 @@
 <!-- README.md -->
 
 <h1 align="center">Hi 👋, I'm Arfat Hussain</h1>
-<h3 align="center">B.Tech CSE | Web Developer & AI/ML Enthusiast</h3>
+<h3 align="center">Web Developer | Data Science Enthusiast | Real-life Project Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Development;AI+%7C+ML+Projects;FastAPI+%7C+React+%7C+MongoDB;Open+to+Internships+%26+Learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Development+%7C+AI%2FML+Enthusiast;FastAPI+%7C+React+%7C+MongoDB;Loves+Building+Real-Life+Projects;Always+Learning+%26+Growing!&center=true&width=500&height=45">
 </p>
 
 ---
 
 ### 🌟 About Me
-- 🎓 B.Tech in Computer Science & Engineering  
-  from **Sharda University (2022-2026)**
-- 💻 I love building real-world **web apps & AI tools**
-- 🌱 Currently learning **FastAPI**, **Three.js**, and **backend deployment**
-- 🔍 Looking for internships in **Web Development** or **Data Science**
-- 📫 Reach me at **arfathussain.official@gmail.com**
+- 🎓 I'm a **B.Tech CSE student (2022–2026)** at Sharda University  
+- 💻 Passionate about **Web Development** and **Data Science**
+- 🚀 I enjoy turning ideas into real-world applications
+- 🌱 Currently learning **FastAPI, MongoDB, and 3D AI integrations**
+- 📫 You can reach me at **syedarfat0305@gmail.com**
+- 🌍 Open to **remote/web-based internships** and exciting collaborations
 
 ---
 
-### 🛠️ Languages & Tools
+### 💻 Tech Stack
 
-#### 👨‍💻 Programming
+#### 💡 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-#### 🌐 Web & Frameworks
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+#### 🖥️ Web Development
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
 
-#### 🧠 AI/ML
+#### 🧠 Data Science / ML
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
-#### 🛢️ Databases
+#### 🗄️ Backend / Database
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql)
 
-#### ⚙️ Tools & DevOps
+#### 🛠️ Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
 ### 📌 Projects
 
 #### 🧠 Sentiment Analysis on E-commerce Reviews
-- Built using Python and NLP
-- Extracted product sentiment from large datasets
+- Used NLP techniques to extract customer sentiment
+- Applied preprocessing, vectorization & model training
 
-#### 🏠 AI-Based Interior Home Design Tool
-- Developed frontend with **HTML/CSS/JS**
-- Backend with **FastAPI + AI Model**
-- Generates layout suggestions from area or layout image
-- Working on **3D model preview integration**
+#### 🏡 AI-Based Interior Home Design Tool
+- Developed a **web tool** to suggest interior layouts using AI
+- Inputs: area size or layout image
+- Output: Smart suggestions + (WIP) 3D preview using Three.js
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arfat-sharda&show_icons=true&theme=gruvbox" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arfat-sharda&theme=gruvbox" width="400" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arfathussain.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arfat-hussain-93764b296/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:syedarfat0305@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Arfat-sharda)
 
 ---
-
